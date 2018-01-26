@@ -1,5 +1,8 @@
 <!--index.wxml-->
 <view class="container">
+  <view bindtap='bindViewTap'class='userinfo'>
+  <image src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1517165268&di=fd3d670a4c3fd587722f7d15ce78d02d&imgtype=jpg&er=1&src=http%3A%2F%2Fent.southcn.com%2F8%2Fimages%2Fattachement%2Fjpg%2Fsite4%2F20100428%2F0016ec7d751a0d41f30330.jpg'></image>
+  </view>
  <view class="usermotto">
   <text style="color:red">欢迎来到大鑫的美瞳店</text>
  </view>
