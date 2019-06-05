@@ -1,6 +1,0 @@
-<!--index.wxml-->
-<view class="container">
- <view class="usermotto">
-  <text style="color:red">欢迎来到大鑫的美瞳店</text>
- </view>
-</view>
